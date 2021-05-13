@@ -1,0 +1,40 @@
+﻿* {
+color: blue
+}
+body {
+  background-color: pink;
+}
+
+body p {
+  color:purple;
+  font-size:120%;
+  font-weight: arial;
+}
+
+#principal {
+  font-family: arial, verdana, sans-serif;
+  font-size:170%;
+  width="600" height="400"
+}
+
+
+table, th, td {
+  border: 1px solid purple;
+}
+
+#principal {
+  color:purple;
+  font-family: calibri, verdana, sans-serif;
+  font-size:120%;
+  width="600" height="400"
+}
+
+#principal {
+  color:purple;
+  font-family: calibri, verdana, sans-serif;
+  font-size:120%;
+  width="600" height="400"
+}
+table, th, td {
+  border: 1px solid blue;
+}
